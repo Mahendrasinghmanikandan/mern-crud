@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10%;
+}
+.left_side{
+  flex:0.3;
+}
+.right_side{
+  flex:0.5;
+}
